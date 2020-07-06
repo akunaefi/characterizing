@@ -1,1 +1,4 @@
-This dataset was crawled from Google Play Store. It contains app reviews from 12 different app categories. 
+This dataset was crawled from Google Play Store. It contains 46k app reviews from 12 different app categories. 
+Reviews were annotated twice. First, to determine whether it is argumentative, decision, or both. 
+Second, to determine user decision expression, such as, acquiring, buying, recommendation, requesting, and rating.
+
